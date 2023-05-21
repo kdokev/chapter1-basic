@@ -9,6 +9,7 @@ uri="http://java.sun.com/jsp/jstl/fmt"%>
     <h2>5h build!!!</h2>
     <h2>5h build!!!</h2>
     <h2>5h build!!!</h2>
+    <h2>6h build!!!</h2>
     <hr />
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
