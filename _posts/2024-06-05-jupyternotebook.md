@@ -1,3 +1,17 @@
+---
+layout: single
+title:  "Markdown pratice."
+categories: coding
+tag: [python, blog]
+toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+
+
 # Python with jupyter notebook
 
 # Python language
