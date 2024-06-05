@@ -1,12 +1,3 @@
----
-layout: single
-title:  "mark down 작성법"
-categories: coding
-tag: [python, blog]
-toc: true
----
-
-
 # Python with jupyter notebook
 
 # Python language
