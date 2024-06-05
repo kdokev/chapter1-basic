@@ -2,7 +2,7 @@
 layout: single
 title:  "mark down 작성법"
 categories: coding
-tag: "python"
+tag: [python, blog]
 toc: true
 ---
 
